@@ -14,4 +14,11 @@
 
 ## Java
 
-[jvm](tech/jvm.md)
+[jvm](tech/java/jvm.md)
+
+
+
+# kubernetes
+
+[集群安装](tech/kubernetes/环境准备.md)
+
